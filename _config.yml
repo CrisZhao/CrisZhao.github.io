@@ -19,7 +19,7 @@ email: zhaoqingce@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   关注java后端/机器学习
 url: http://criszhao.github.com # the base hostname & protocol for your site, e.g. http://example.com
-siteurl: criszhao.github.com
+siteurl: criszhao.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Markdown Processors
